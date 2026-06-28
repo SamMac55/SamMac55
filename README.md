@@ -8,9 +8,9 @@ Also serving as **RowdyCreators Director** for UTSA ACM — helping students bui
 
 ## Tech Stack
 
-**Languages:** Java · Python · C · TypeScript · SQL
+**Languages:** Java · Python · C · TypeScript · SQL  
 **Web:** Next.js · React · Flask · Tailwind CSS  
-**Data / ML:** MLflow · PostgreSQL · Docker
+**Data / ML:** MLflow · PostgreSQL · Docker  
 
 ---
 
